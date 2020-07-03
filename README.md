@@ -1,2 +1,2 @@
-# CSnippets
-This will have the C programs
+# CandCPPSnippets
+This will have the C and C++ programs
